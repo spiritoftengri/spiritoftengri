@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @spiritoftengri
+- 👀 I’m interested in coding and programming
+- 🌱 I’m currently learning Phyton
